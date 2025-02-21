@@ -1,3 +1,4 @@
+[![Download APK](https://img.shields.io/badge/Download-APK-blue?style=for-the-badge)](https://github.com/Mhmd-SHA/ASE-Technical/releases/download/V1.0.0/ASE-TECHINICAL.app-release.apk)
 ```
 # aes_flutter_technical
 
